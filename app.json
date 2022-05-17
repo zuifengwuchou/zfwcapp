@@ -1,20 +1,20 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray on Heroku.",
+    "name": "zfwc",
+    "description": "Deploy zfwc on Heroku.",
     "keywords": [
         "V2Ray"
     ],
     "env": {
         "UUID": {
-            "description": "V2Ray UUID",
-            "value": "ce7ea10b-5b27-49ab-a93d-6b184df9cce9"
+            "description": "zfwc key",
+            "value": "4362ba56-69a1-4285-bd12-c6c59af7139d"
         },
         "TUNNEL_TOKEN": {
             "description": "Cloudflare Tunnel Token",
             "required": false
         }
     },
-    "website": "https://github.com/zizifn/v2ray-heroku",
-    "repository": "https://github.com/zizifn/v2ray-heroku",
+    "website": "https://github.com/zuifengwuchou/zfwcapp",
+    "repository": "https://github.com/zuifengwuchou/zfwcapp",
     "stack": "container"
 }
